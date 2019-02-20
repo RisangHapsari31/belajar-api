@@ -1,0 +1,124 @@
+{
+  "mahasiswa" : [{
+  "id": 1,
+  "first_name": "Samaria Loades",
+  "gender": "Female"
+}, {
+  "id": 2,
+  "first_name": "Weylin Screase",
+  "gender": "Male"
+}, {
+  "id": 3,
+  "first_name": "Terrence Cutten",
+  "gender": "Male"
+}, {
+  "id": 4,
+  "first_name": "Clayton Neve",
+  "gender": "Male"
+}, {
+  "id": 5,
+  "first_name": "Rooney Impett",
+  "gender": "Male"
+}, {
+  "id": 6,
+  "first_name": "Brandon Djokic",
+  "gender": "Male"
+}, {
+  "id": 7,
+  "first_name": "Wally Sawbridge",
+  "gender": "Male"
+}, {
+  "id": 8,
+  "first_name": "Odey Inglis",
+  "gender": "Male"
+}, {
+  "id": 9,
+  "first_name": "Tiena Bemment",
+  "gender": "Female"
+}, {
+  "id": 10,
+  "first_name": "Herbert Slimings",
+  "gender": "Male"
+}, {
+  "id": 11,
+  "first_name": "Shirley Robardley",
+  "gender": "Female"
+}, {
+  "id": 12,
+  "first_name": "Alethea Peotz",
+  "gender": "Female"
+}, {
+  "id": 13,
+  "first_name": "Elisha Teasdale",
+  "gender": "Female"
+}, {
+  "id": 14,
+  "first_name": "Arluene Worledge",
+  "gender": "Female"
+}, {
+  "id": 15,
+  "first_name": "Clayton Dudden",
+  "gender": "Male"
+}, {
+  "id": 16,
+  "first_name": "Liam Girardi",
+  "gender": "Male"
+}, {
+  "id": 17,
+  "first_name": "Binny Firmin",
+  "gender": "Female"
+}, {
+  "id": 18,
+  "first_name": "Eleanor Idenden",
+  "gender": "Female"
+}, {
+  "id": 19,
+  "first_name": "Devy Blamires",
+  "gender": "Male"
+}, {
+  "id": 20,
+  "first_name": "Farrah Sanger",
+  "gender": "Female"
+}, {
+  "id": 21,
+  "first_name": "Lorianne Mc Comb",
+  "gender": "Female"
+}, {
+  "id": 22,
+  "first_name": "Daron Phythean",
+  "gender": "Male"
+}, {
+  "id": 23,
+  "first_name": "Lindon D'Agostino",
+  "gender": "Male"
+}, {
+  "id": 24,
+  "first_name": "Laird Whitrod",
+  "gender": "Male"
+}, {
+  "id": 25,
+  "first_name": "Munroe Hullins",
+  "gender": "Male"
+}, {
+  "id": 26,
+  "first_name": "Leese Kitchen",
+  "gender": "Female"
+}, {
+  "id": 27,
+  "first_name": "Augusta Hendricks",
+  "gender": "Female"
+}, {
+  "id": 28,
+  "first_name": "Lauree Stable",
+  "gender": "Female"
+}, {
+  "id": 29,
+  "first_name": "Aubrey Byass",
+  "gender": "Female"
+}, {
+  "id": 30,
+  "first_name": "Delphine Selman",
+  "gender": "Female"
+}]
+    
+}
